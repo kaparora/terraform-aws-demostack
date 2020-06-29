@@ -84,7 +84,7 @@ output "Primary_k8s_eks_ca"{
 **/
 
 // Secondary
-
+/*
 output "Secondary_Consul" {
   value = module.secondarycluster.consul_ui
 }
